@@ -7,7 +7,7 @@ from setuptools import setup
 setup(
     name="setor",
     packages=['setor'],
-    version="1.4",
+    version="1.5",
     platforms=['Linux'],
     url='https://github.com/agusmakmun/setor/',
     download_url='https://github.com/agusmakmun/setor/tarball/v1.4',
